@@ -33,7 +33,7 @@ import report.impl.MemberReportGenerator;
  */
 public class Main {
     public static void main(String[] args) {
-        System.out.println("🏛️ SOLID PRINCIPLES DEMO - LIBRARY MANAGEMENT SYSTEM");
+        System.out.println("🏛️ SOLID PRINCIPLES DEMO -   LIBRARY MANAGEMENT SYSTEM");
         System.out.println("=====================================================");
         System.out.println();
         
